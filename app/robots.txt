@@ -2,4 +2,3 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepcinta.pages.dev/sitemap.xml
